@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
-'Command & Control (Build Your Own Botnet)'
+'Command & Control (Project Europa)'
 from __future__ import print_function
 
 # standard library
