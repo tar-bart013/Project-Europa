@@ -5,7 +5,7 @@
 __all__ = ['database','generators','handler','loader','payloads','security','stagers','util']
 __version__ = '0.1'
 __license__ = 'GPLv3'
-__github__ = 'https://github.com/tarbart013/Project-Europa
+__github__ = 'https://github.com/tar-bart013/Project-Europa
 
 # def main():
 #     for module in __all__:
